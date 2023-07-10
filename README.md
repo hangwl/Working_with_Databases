@@ -50,6 +50,8 @@ It is important to note that normalization should be done carefully, considering
 
 ER Diagrams are visual representations used to model the relationship between entities in a database system. They provide a graphical illustration of the database structure, showing how entities related to each other and the attributes associated with them. Additionally, the serve as a communication tool between database designers, developers, and stakeholders to understand the database schema, entity relationships, and the overall system design. ER diagrams also assist in identifying key elements of the database, such as primary keys, foreign keys, cardinality (the number of occurrences of one entity related to another), and constraints. They provide a high-level overview of the database design and serve as a basis for creating the actual database schema and tables.
 
+[drawio](https://www.drawio.com/) provides a useful diagramming extension integrated into VScode
+
 ## NoSQL vs SQL
 
 NoSQL databases are designed to overcome certain limitations of SQL databases and cater to specific use cases. They are well-suited for scenarios involving big data, real-time data, rapid development, scalability, and high-speed data ingestion, such as in social media, IoT applications, and real-time analytics.
