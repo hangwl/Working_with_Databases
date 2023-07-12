@@ -1,0 +1,10 @@
+dagster
+dagster-cloud
+
+[dev]
+dagit
+pytest
+psycopg2
+pandas
+matplotlib
+dagster_duckdb_pandas

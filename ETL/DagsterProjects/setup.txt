@@ -1,0 +1,13 @@
+# setup venv
+python -m venv env
+env\Scripts\activate
+
+# bootstrap new project
+dagster project scaffold --name demo-project
+
+# install project dependencies
+# additional dependencies to be specified in setup.py
+pip install -e ".[dev]"
+
+# start dagster ui
+dagster dev

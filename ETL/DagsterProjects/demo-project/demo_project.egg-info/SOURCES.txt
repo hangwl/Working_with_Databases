@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+demo_project/__init__.py
+demo_project/assets.py
+demo_project.egg-info/PKG-INFO
+demo_project.egg-info/SOURCES.txt
+demo_project.egg-info/dependency_links.txt
+demo_project.egg-info/requires.txt
+demo_project.egg-info/top_level.txt
